@@ -12,6 +12,11 @@
 
 ####   Jupyter File related to this project.
 
+## 🟢 placement.csv :  
+
+####   Dataset for tranning model.
+
+
 <br>
 
 # Modules Required :
