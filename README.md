@@ -1,0 +1,1 @@
+# fresher-salary-prediction-using-linear-regration
