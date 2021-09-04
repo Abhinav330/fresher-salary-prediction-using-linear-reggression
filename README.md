@@ -8,27 +8,19 @@
 
 # Files in this Repository :
 
-## 🟢 Code.py :  
+## 🟢 linear_regression.ipynb :  
 
-####   Python code for GUI calculator. 
+####   Jupyter File related to this project.
 
 <br>
 
 # Modules Required :
 
-## 🔶 tkinter
-## 🔶 pyttsx3
-## 🔶 datetime
-## 🔶 speech_recognition as sr
-## 🔶 time
-## 🔶 wikipedia
-## 🔶 webbrowser
-## 🔶 os
-## 🔶 random
-## 🔶 smtplib
-## 🔶 selenium import webdriver
-## 🔶 selenium
-## 🔶 serial
+## 🔶 Numpy
+## 🔶 Pandas
+## 🔶 sklearn
+## 🔶 math
+## 🔶 joblib
 
 <br>
 
@@ -43,22 +35,14 @@
 
 # Instructions 
 
-## ✔ This is adesktop voice assistant you can give following voice commands to it :
-###        Open youtube
-###        Search wikipedia
-###        Open google
-###        Open Gmial
-###        Play songs
-###        Play videos
-###        Tells time
-###        Open vs code
-###        Open whatsapp
-###        Sends emsil
-###        Can search on youtube directly.
-
-
-
-
+## ✔ You need to give the following details and it will return the Salary in LPA :
+###        10th marks in percentage
+###        12th marks in percentage
+###        College marks in percentage
+###        Do you have any work experience ? (Enter 1 for yes or enter 0 for No)
+###        Enter your Gender (Enter 1 for Male or enter 0 for Female)
+###        Are you a commerce Student ? (Enter 1 for yes or enter 0 for No)
+###        Are you a Science Student ? (Enter 1 for yes or enter 0 for No)
 
 
 <br>
@@ -66,7 +50,7 @@
 # Warnings 
 
  
-## ❌ Users need to change all the directory locations accourding to their systems
+## ❌ This model is trainned with very small number of dataset so predicted out may or may not be correct.
 ## ❌ Limited features.
 
 <br> <br>
